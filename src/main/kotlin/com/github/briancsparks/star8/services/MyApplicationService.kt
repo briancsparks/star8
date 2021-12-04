@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.briancsparks.star8.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.briancsparks.star8.MyBundle
 
 class MyApplicationService {
 
